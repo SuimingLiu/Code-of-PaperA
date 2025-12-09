@@ -9,7 +9,7 @@ This pipeline processes dam monitoring data through four analytical steps: data 
 ## Project Structure
 
 ```
-图件pro/
+
 ├── config.py                      # Centralized configuration
 ├── main.py                        # Main pipeline controller
 ├── step1_data_processing.py       # Data extraction and consolidation
@@ -138,3 +138,4 @@ MIT License
 ---
 
 **Last Updated:** 2025-12-02
+
