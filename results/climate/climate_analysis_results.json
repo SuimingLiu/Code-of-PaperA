@@ -1,0 +1,14 @@
+{
+  "kruskal_wallis": {
+    "h_statistic": 10.668382078542322,
+    "p_value": 0.030554939193970506,
+    "groups": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "significant": true
+  }
+}

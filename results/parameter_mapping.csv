@@ -1,0 +1,21 @@
+﻿Column Name,F Code,Parameter,Unit,Category,Non-null Count
+Normal Displacement Maximum,F7,Normal Displacement,m,Displacement,504
+Normal Displacement Minimum,F7,Normal Displacement,m,Displacement,504
+Normal Head Maximum,F6,Normal Head,m,Head,504
+Normal Head Minimum,F6,Normal Head,m,Head,504
+Normal Self-Potential Maximum,F10,Normal Self-Potential,mV,Self-Potential,504
+Normal Self-Potential Minimum,F10,Normal Self-Potential,mV,Self-Potential,504
+Normal Resistivity Maximum,F9,Normal Resistivity,Ω·m,Resistivity,504
+Normal Resistivity Minimum,F9,Normal Resistivity,Ω·m,Resistivity,504
+Seepage Head Maximum,F17,Seepage Head,m,Head,504
+Seepage Head Minimum,F17,Seepage Head,m,Head,504
+Seepage Displacement Maximum,F18,Seepage Displacement,m,Displacement,504
+Seepage Displacement Minimum,F18,Seepage Displacement,m,Displacement,504
+Normal FOS Maximum,F8,Normal FOS,-,FOS,504
+Seepage Resistivity Maximum,F20,Seepage Resistivity,Ω·m,Resistivity,504
+Seepage Resistivity Minimum,F20,Seepage Resistivity,Ω·m,Resistivity,504
+Seepage FOS Maximum,F19,Seepage FOS,-,FOS,504
+Seepage Self-Potential Maximum,F21,Seepage Self-Potential,mV,Self-Potential,504
+Seepage Self-Potential Minimum,F21,Seepage Self-Potential,mV,Self-Potential,504
+Coupling Electric Field Maximum,F22,Coupling Electric Field,V,Electric Field,504
+Coupling Electric Field Minimum,F22,Coupling Electric Field,V,Electric Field,504

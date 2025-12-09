@@ -1,0 +1,10 @@
+{
+  "total_dams": 504,
+  "seepage_higher_count": 398,
+  "seepage_higher_pct": 78.96825396825396,
+  "fos_change_mean": 0.22060887896825393,
+  "fos_change_std": 0.2595819190787035,
+  "shapiro_p": 1.9031430700515792e-11,
+  "ks_p": 1.4101822646114948e-05,
+  "is_normal": false
+}

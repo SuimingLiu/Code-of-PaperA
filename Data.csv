@@ -1,0 +1,23 @@
+﻿F_code,original_cn,original_en,category
+F1,正常压力水头分布,Normal Head Distribution,正常
+F2,正常FOS分布图,Normal FOS Plot,正常
+F3,正常3DFOS分布图,Normal 3D FOS Plot,正常
+F4,正常电阻率分布图,Normal Resistivity Plot,正常
+F5,正常堤坝自然电位,Normal SP Potential,正常
+F6,正常压力水头分布csv,Normal Head CSV,正常
+F7,正常位移分布图csv,Normal Displacement CSV,正常
+F8,正常FOS值csv,Normal FOS Value CSV,正常
+F9,正常电阻率分布图csv,Normal Resistivity CSV,正常
+F10,正常堤坝自然电位csv,Normal SP Potential CSV,正常
+F11,渗漏压力水头分布,Seepage Head Distribution,渗漏
+F12,渗漏FOS分布图,Seepage FOS Plot,渗漏
+F13,渗漏3DFOS分布图,Seepage 3D FOS Plot,渗漏
+F14,渗漏电阻率分布图,Seepage Resistivity Plot,渗漏
+F15,渗漏堤坝自然电位,Seepage SP Potential,渗漏
+F16,渗漏堤坝渗漏电场电位,Seepage Electric Field Potential,渗漏
+F17,渗漏压力水头分布csv,Seepage Head CSV,渗漏
+F18,渗漏位移分布图csv,Seepage Displacement CSV,渗漏
+F19,渗漏FOS值csv,Seepage FOS Value CSV,渗漏
+F20,渗漏电阻率分布图csv,Seepage Resistivity CSV,渗漏
+F21,渗漏堤坝自然电位csv,Seepage SP Potential CSV,渗漏
+F22,渗漏堤坝渗漏电场电位csv,Seepage Electric Field Potential CSV,渗漏
